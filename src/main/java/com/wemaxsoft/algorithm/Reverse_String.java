@@ -1,13 +1,13 @@
 package com.wemaxsoft.algorithm;
 
-public class ReverseString {
+public class Reverse_String {
 
 	/*
 	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/
 	 */
 	
 	public static void main(String[] args) {
-		ReverseString test = new ReverseString();
+		Reverse_String test = new Reverse_String();
 		char[] s = new char[]{'H','a','n','n','a','h'};
 		test.reverseString(s);
 		

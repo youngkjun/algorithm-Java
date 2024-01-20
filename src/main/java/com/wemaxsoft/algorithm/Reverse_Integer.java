@@ -1,13 +1,13 @@
 package com.wemaxsoft.algorithm;
 
-public class ReverseInteger {
+public class Reverse_Integer {
 	
 	/*
 	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/
 	 */
 
 	public static void main(String[] args) {
-		ReverseInteger test = new ReverseInteger();
+		Reverse_Integer test = new Reverse_Integer();
 		
 		int result = 0;
 		

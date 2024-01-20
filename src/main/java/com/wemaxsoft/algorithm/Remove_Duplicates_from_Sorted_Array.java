@@ -2,7 +2,7 @@ package com.wemaxsoft.algorithm;
 
 import java.util.Arrays;
 
-public class RemoveDuplicatesFromSortedArray {
+public class Remove_Duplicates_from_Sorted_Array {
 
 	/*
 	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
@@ -11,7 +11,7 @@ public class RemoveDuplicatesFromSortedArray {
 	public static void main(String[] args) {
 		int[] nums = new int[]{1,1,2};
 		
-		RemoveDuplicatesFromSortedArray test = new RemoveDuplicatesFromSortedArray();
+		Remove_Duplicates_from_Sorted_Array test = new Remove_Duplicates_from_Sorted_Array();
 		int k = test.removeDuplicates(nums);
 		
 		int[] newNums = new int[k];

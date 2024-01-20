@@ -1,12 +1,12 @@
 package com.wemaxsoft.algorithm;
 
-public class BestTimeToBuyAndSellStock2 {
+public class Best_Time_to_Buy_and_Sell_Stock_II {
 
 	/*
 	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
 	 */
 	public static void main(String[] args) {
-		BestTimeToBuyAndSellStock2 test = new BestTimeToBuyAndSellStock2();
+		Best_Time_to_Buy_and_Sell_Stock_II test = new Best_Time_to_Buy_and_Sell_Stock_II();
 		
 		int[] prices = new int[] {7,1,5,3,6,4};
 		int profit = test.maxProfit(prices);
