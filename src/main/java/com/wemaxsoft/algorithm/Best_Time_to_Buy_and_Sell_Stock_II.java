@@ -3,7 +3,7 @@ package com.wemaxsoft.algorithm;
 public class Best_Time_to_Buy_and_Sell_Stock_II {
 
 	/*
-	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
+	 * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
 	 */
 	public static void main(String[] args) {
 		Best_Time_to_Buy_and_Sell_Stock_II test = new Best_Time_to_Buy_and_Sell_Stock_II();

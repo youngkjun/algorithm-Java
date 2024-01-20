@@ -3,7 +3,7 @@ package com.wemaxsoft.algorithm;
 public class Reverse_Integer {
 	
 	/*
-	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/
+	 * https://leetcode.com/problems/reverse-integer/
 	 */
 
 	public static void main(String[] args) {

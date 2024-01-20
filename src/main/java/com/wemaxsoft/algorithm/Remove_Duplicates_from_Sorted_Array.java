@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Remove_Duplicates_from_Sorted_Array {
 
 	/*
-	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
+	 * https://leetcode.com/problems/remove-duplicates-from-sorted-array
 	 */
 	
 	public static void main(String[] args) {
