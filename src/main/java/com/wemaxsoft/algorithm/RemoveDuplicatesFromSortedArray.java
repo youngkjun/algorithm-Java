@@ -4,6 +4,10 @@ import java.util.Arrays;
 
 public class RemoveDuplicatesFromSortedArray {
 
+	/*
+	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
+	 */
+	
 	public static void main(String[] args) {
 		int[] nums = new int[]{1,1,2};
 		
